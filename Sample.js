@@ -1,4 +1,4 @@
-// Create View
+//   Create View
 var CountryView = Backbone.View.extend({
   
   tagName: 'div',
